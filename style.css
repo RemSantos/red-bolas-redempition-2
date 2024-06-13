@@ -1,5 +1,16 @@
 :root {
-    --cor-de-fundo:
+    --cor-de-fundo: hsl(0, 0%, 100%);
+
+}
+
+body {
+background-color: var(--cor-de-fundo);
+
+
+}
+
+h1 {
+    background-color: aliceblue;
 
 
 
